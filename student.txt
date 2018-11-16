@@ -1,0 +1,3 @@
+student name : Samuel Kuik
+student number : 580221
+student class : INFs1C
